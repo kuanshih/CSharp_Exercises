@@ -1,0 +1,12 @@
+C# winform 小練習
+1. Hello ( input information and display it in the alert!)
+2. loan ( input 貸款金額、期限、年利率、頭期款。可以計算出月須支付金額、總金額、以及Report 顯示完整報告)
+3. Barpos ( 簡單的店餐pos作業系統，點選菜單，加總金額並顯示購買項目)
+4. Student_StructForm ( 儲存學生姓名、國文分數、英文分數、數學分數。點選"顯示儲存內容"可以顯示剛剛input進去的資料，點選"最高分/最低分科目" 可顯示最高及最低分科目分數)
+5. Student_Grade ( input學生姓名、國文分數、英文分數、數學分數。點選"加入學生資料" 儲存學生資料，或是點選" 隨機儲存資料" 隨機加入學生資料。可點選" 各科統計" 在下方顯示各科分數統計、平均、最高分、最低分，或是點選" 重設所有資料" 清空資料)
+6. MyClac ( 簡易計算機，input 兩數字並點選旁邊 + - * / 按鈕，下方即顯示結果)
+7. ForDoWhile (array / Do / For / while 的練習) 
+8. XOGame ( 圈圈叉叉遊戲)
+9. Screen Saver ( 避免銀幕關閉的簡易作業系統)
+10. Guess ( 猜數字遊戲，0 - 100 數字，隨機input數字，會顯示 輸入數字較大或較小，縮小範圍，直到達對)
+11. Alarm ( 鬧鐘 )
